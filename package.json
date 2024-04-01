@@ -1,0 +1,20 @@
+{
+  "name": "json-vigilan",
+  "description": "A robust library for parsing and validating JSON data, ensuring its compliance with the JSON format specifications.",
+  "private": false,
+  "version": "0.1.0",
+  "type": "module",
+  "author": "shikuno-dev",
+  "license": "MIT",
+  "main": "./dist",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
