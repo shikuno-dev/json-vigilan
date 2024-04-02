@@ -1,5 +1,5 @@
 {
-  "name": "json-vigilan",
+  "name": "json-vigilant",
   "description": "A robust library for parsing and validating JSON data, ensuring its compliance with the JSON format specifications.",
   "private": false,
   "version": "0.1.0",
@@ -15,6 +15,7 @@
     "test": "vitest"
   },
   "devDependencies": {
-    "typescript": "^5.3.3"
+    "typescript": "^5.4.3",
+    "vitest": "^1.4.0"
   }
 }

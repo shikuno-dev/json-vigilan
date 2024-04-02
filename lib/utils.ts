@@ -28,4 +28,4 @@ export const ERROR_MESSAGES = {
   NotEOF:  'End of file expected', // [], | {}a
   UnexpectedToken: 'Expecting a ',
   UnenclosedKey: 'Keys must be enclosed in double quotes' // {"key :""}
-}
+};
